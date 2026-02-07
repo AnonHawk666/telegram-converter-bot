@@ -5,7 +5,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
-TOKEN = os.getenv("8157745694:AAGrHUfLu02KeIqOuNlKKEvTZ6iOkApC-ow")
+TOKEN = os.getenv("TOKEN")
 
 STAR_PRICE = 0.015
 
