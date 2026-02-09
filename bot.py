@@ -105,8 +105,8 @@ async def price_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     star = usdt / STAR_PRICE
 
     reply = (
-        f"💎 TON : {ton:.2f}\n"
-        f"💵 USDT : {usdt:.2f}\n"
+        f"💎 TON : {ton:.4f}\n"
+        f"💵 USDT : {usdt:.4f}\n"
         f"🇮🇳 INR : {inr:.2f}\n"
         f"⭐ STAR : {star:.2f}"
     )
