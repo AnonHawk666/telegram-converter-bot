@@ -16,6 +16,7 @@ CURRENCY_MAP = {
     "usdt": "usdt",
     "usd": "usdt",
     "u": "usdt",
+    "$": "usdt",
 
     "inr": "inr",
     "rs": "inr",
